@@ -1,0 +1,64 @@
+h1{
+	text-align: center;
+	padding:30px;
+	font-family: Arial;
+	font-size: 52px;
+
+	background: linear-gradient(to right,#79327e, #ac2d3c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+img{
+	padding: 90px;
+	width: 80%
+}
+
+ nav{
+ 	float:right;
+ }
+
+ nav ul{
+ 	margin: 0;
+ 	padding: 0;
+ 	list-style: none;
+ }
+
+ nav li{
+ 	display: inline-block;
+ 	margin: 45px;
+ 	padding-top: 40px;
+ 	position: relative;
+
+ }
+
+ nav a{
+ 	font-size:20px;
+ 	font-family:Arial;
+ 	color:white;
+ 	text-decoration: none;
+ }
+
+ nav a:hover {
+ 	color:#79327e;  //что бы мигало когда наводишь
+ }
+
+ p{
+ 	font-size: 25px;
+ 	font-family: Arial;
+ }
+iframe{
+	display: inline-block;
+ 	margin-left : 220px;
+    margin-right: 300px;
+ 	padding-top: 10px;
+}
+
+h4{
+	color: white;
+	font-family: Arial;
+	font-size: 17px;
+	margin-left: 40px;
+	margin-top:30px;
+
+}
